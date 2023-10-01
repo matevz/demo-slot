@@ -1,5 +1,7 @@
 # Wheel of Fortune (aka the slot machine)
 
+![Wheel of Fortune screenshot](screenshot.png)
+
 This is a simple SmartCon 2023 hackathon project exposing awesome on-chain
 encryption provided by Oasis Sapphire.
 
@@ -61,7 +63,7 @@ Once you set the parameters, you **need to enable the contract** by running
 (the kill switch), you can do this anytime by running `npx hardhat disable
 <contract_address>`.
 
-## Frontend
+### Frontend
 
 You can run the frontend locally by running:
 
@@ -79,3 +81,11 @@ pnpm build
 
 `build` folder will contain the generated HTML artifacts.
 
+## Disclaimer
+
+This is a demonstration project focused on the confidentiality features of the
+Oasis Network. The smart contract, backend and frontend code is not audited
+neither can authors of this project be held responsible for any security
+vulnerabilities, financial and/or data loss or theft.
+
+This project is not affiliated with the Oasis Foundation or Oasis Labs Inc.
