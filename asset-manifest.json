@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/demo-slot/static/css/main.7b9b4cf5.css",
+    "main.js": "/demo-slot/static/js/main.34a29255.js",
+    "static/media/info-banner-lg-bg.png": "/demo-slot/static/media/info-banner-lg-bg.4bdaa4d5bd65446583f5.png",
+    "static/media/info-banner-bg.png": "/demo-slot/static/media/info-banner-bg.503048bccafeedca24a6.png",
+    "static/media/coat.png": "/demo-slot/static/media/coat.f8a0a8890100be3738e4.png",
+    "static/media/coat-mobile.png": "/demo-slot/static/media/coat-mobile.cbdfdaff351ca7aa8db2.png",
+    "static/media/wheel.png": "/demo-slot/static/media/wheel.340d07d270c42851da07.png",
+    "static/media/EuclidCircularB-Medium.woff": "/demo-slot/static/media/EuclidCircularB-Medium.f28d7b92fda1e2d7b18a.woff",
+    "static/media/EuclidCircularB-SemiBold.woff": "/demo-slot/static/media/EuclidCircularB-SemiBold.8c87b69d145012c6b982.woff",
+    "static/media/EuclidCircularB-Regular.woff": "/demo-slot/static/media/EuclidCircularB-Regular.4e9cf618d58d09ad4e64.woff",
+    "static/media/EuclidCircularB-Bold.woff": "/demo-slot/static/media/EuclidCircularB-Bold.49d8e7bdcf27ff9fb67d.woff",
+    "static/media/EuclidCircularB-Light.woff": "/demo-slot/static/media/EuclidCircularB-Light.426a17c048818b7de742.woff",
+    "static/media/berlin.svg": "/demo-slot/static/media/berlin.1935464936c035146c371db93970b38b.svg",
+    "static/media/wheel-outer.svg": "/demo-slot/static/media/wheel-outer.ac353548e63c2b94d49e4940512b9e8b.svg",
+    "static/media/wheel-failed-text.svg": "/demo-slot/static/media/wheel-failed-text.178f29d5e3efaf885315abb4b2a23aa9.svg",
+    "static/media/wheel-spin-text.svg": "/demo-slot/static/media/wheel-spin-text.fe44fb456e6aceb93dcfdfec60b664af.svg",
+    "static/media/footer-logo.svg": "/demo-slot/static/media/footer-logo.049d6a55e8be47d70856b62fa1e04d08.svg",
+    "static/media/logo.svg": "/demo-slot/static/media/logo.4163c8c0cc26fbe9ffcc0cf077714383.svg",
+    "static/media/wallet.svg": "/demo-slot/static/media/wallet.be284802a8fbfd991bb37ce1cc3128aa.svg",
+    "static/media/hero-banner-bg.svg": "/demo-slot/static/media/hero-banner-bg.e1517f4052922e095c2c.svg",
+    "static/media/wheel-spin-won-circle.svg": "/demo-slot/static/media/wheel-spin-won-circle.a67dd8945ae5bb8ce056da2d1a5e181e.svg",
+    "static/media/github-mark.svg": "/demo-slot/static/media/github-mark.6fa18895f6e6c7772cab7049f7e05f59.svg",
+    "index.html": "/demo-slot/index.html",
+    "main.7b9b4cf5.css.map": "/demo-slot/static/css/main.7b9b4cf5.css.map",
+    "main.34a29255.js.map": "/demo-slot/static/js/main.34a29255.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b9b4cf5.css",
+    "static/js/main.34a29255.js"
+  ]
+}
