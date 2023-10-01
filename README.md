@@ -6,7 +6,7 @@ This is a simple SmartCon 2023 hackathon project exposing awesome on-chain
 encryption provided by Oasis Sapphire.
 
 NOTE: The demo version of this dApp is deployed at [github pages]. If you don't
-have TEST tokens, get it on the [Oasis Testnet Faucet] page.
+have TEST tokens, get them on the [Oasis Testnet Faucet] page.
 
 [github pages]: https://matevz.github.io/demo-slot
 [Oasis Testnet Faucet]: https://faucet.testnet.oasis.dev/
