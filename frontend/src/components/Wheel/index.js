@@ -48,7 +48,7 @@ export const Wheel = () => {
            src={wheel}
            alt="Wheel"/>
 
-      {selectedAddress && maxReward && !networkError && !slot && <img onClick={startSpin} draggable={false}
+      {selectedAddress && maxReward && !networkError && <img onClick={startSpin} draggable={false}
                                                          className={[classes.wheelText, ...[spin ? [classes.fadeOut] : [classes.fadeIn]]].join(' ')}
                                                          src={wheelSpinText} alt="Click to spin"/>}
       {selectedAddress && networkError && <img draggable={false}
@@ -60,12 +60,12 @@ export const Wheel = () => {
       { slot==="won" && <>
         <InfoMessage>🎉 Congratulations, you won {ethers.utils.formatEther(wonReward)}! 🎉</InfoMessage>
         <p className={classes.collectMessage}>🪙 Tokens are already on the way to {selectedAddress} 🪙</p>
-        <p className={classes.collectMessage} onClick={startSpin}>❤️ Want to try one more time? ❤️</p>
+        <p className={classes.collectMessage}>❤️ Want to try one more time? ❤️</p>
       </>
       }
       { slot==="lose" && <>
         <InfoMessage>😉 Better luck next time! 😉</InfoMessage>
-        <p className={classes.collectMessage} onClick={startSpin}>❤️ Want to try one more time? ❤️</p>
+        <p className={classes.collectMessage}>❤️ Want to try one more time? ❤️</p>
       </>
       }
       {drawError && <ErrorMessage>Something went wrong! Try again!</ErrorMessage>}
